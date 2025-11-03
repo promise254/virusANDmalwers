@@ -1,2 +1,3 @@
-use the malwere and virus carefully, any elegal activity you do i shall not be held resposible
-these virus and malware were created by the wolf hackers comunity for malwer analysis 
+use the malwere and virus carefully, any bad activity you do with these malwere, i shall not be held resposible in any ways. 
+These virus and malware were created by the wolf hackers comunity for malwer analysis and pentesting
+use wisely 
